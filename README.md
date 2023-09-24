@@ -69,6 +69,3 @@ Vue.component('VueClock', VueClock)
 | `isMinute` | `Boolean` | `true`  | Display/hidden minute |
 | `isSecond` | `Boolean` | `true`  | Display/hidden second |
 
-## License
-
-MIT © [Dang Van Thanh](https://dangthanh.org)
